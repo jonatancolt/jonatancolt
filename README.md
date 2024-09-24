@@ -21,3 +21,10 @@ LinkedIn: https://www.linkedin.com/in/jonatan-gomes-floriano-5b45172a0/
 E-mail: Jonatan.jc1919@gmail.com
 Vamos colaborar em novos projetos? Estou sempre aberto para aprender, contribuir e compartilhar conhecimento!
 
+<br> 
+<br> 
+<br>
+
+  <img align='left' width='50%' src="https://github-readme-stats.vercel.app/api?username=jonatancolt&theme=dracula&show_icons=true&hide_border=true" alt="Github Stats" />
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatancolt&theme=dracula&layout=compact&hide=html" alt="Github Languages" />
+</details>

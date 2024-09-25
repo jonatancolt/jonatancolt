@@ -1,6 +1,5 @@
 # Olá, bem-vindo ao meu GitHub!
 
-[![LinkedIn](https://www.linkedin.com/in/jonatan-gomes-floriano-5b45172a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -40,7 +39,7 @@
 
 ## Contato:
 
-📧 Email:  jonatan.jc1919@gmail.com
+📧 Email: mohamedafiffsmaili@gmail.com
 
 ---
 
